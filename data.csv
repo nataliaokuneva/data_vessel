@@ -1,4 +1,4 @@
-﻿symbol,vesseltype,age,year,nettonnage,flag,flagchanges,price ,valchanges,ports,portstotal,zones,zonestotal,mileage
+﻿symbol,vesseltype,age,date,nettonnage,flag,flagchanges,price ,valchanges,ports,portstotal,zones,zonestotal,mileage
 Maersk Kimi,Container Carrier,21,2019,52941,Netherlands,2,10000000.00,2,50,7000,12,200,72236
 Maersk Verga ,Supply Vessel,13,2019,53625,Brazil,1,50000000.00,0,49,3000,10,150,35834
 Berlian Ekuator,LPG Tanker,21,2019,28000,Singapore,0,7000000.00,1,58,7200,19,186,120520
