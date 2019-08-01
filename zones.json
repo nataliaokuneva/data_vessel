@@ -1,0 +1,152 @@
+[
+    {
+        "categorie": "2013", 
+        "values": [
+            {
+                "value": 0, 
+                "rate": "IRAN"
+            }, 
+            {
+                "value": 4, 
+                "rate": "IRAQ"
+            }, 
+            {
+                "value": 12, 
+                "rate": "BENIN"
+            }, 
+            {
+                "value": 6, 
+                "rate": "GOG"
+            }, 
+            {
+                "value": 0, 
+                "rate": "HRA"
+            }
+        ]
+    }, 
+    {
+        "categorie": "2014", 
+        "values": [
+            {
+                "value": 0, 
+                "rate": "IRAN"
+            }, 
+            {
+                "value": 4, 
+                "rate": "IRAQ"
+            }, 
+            {
+                "value": 12, 
+                "rate": "BENIN"
+            }, 
+            {
+                "value": 6, 
+                "rate": "GOG"
+            }, 
+            {
+                "value": 0, 
+                "rate": "HRA"
+            }
+        ]
+    }, 
+    {
+        "categorie": "2015", 
+        "values": [
+            {
+                "value": 0, 
+                "rate": "IRAN"
+            }, 
+            {
+                "value": 4, 
+                "rate": "IRAQ"
+            }, 
+            {
+                "value": 12, 
+                "rate": "BENIN"
+            }, 
+            {
+                "value": 6, 
+                "rate": "GOG"
+            }, 
+            {
+                "value": 0, 
+                "rate": "HRA"
+            }
+        ]
+    }, 
+    {
+        "categorie": "2016", 
+        "values": [
+            {
+                "value": 0, 
+                "rate": "IRAN"
+            }, 
+            {
+                "value": 4, 
+                "rate": "IRAQ"
+            }, 
+            {
+                "value": 12, 
+                "rate": "BENIN"
+            }, 
+            {
+                "value": 6, 
+                "rate": "GOG"
+            }, 
+            {
+                "value": 0, 
+                "rate": "HRA"
+            }
+        ]
+    }, 
+    {
+        "categorie": "2017", 
+        "values": [
+            {
+                "value": 0, 
+                "rate": "IRAN"
+            }, 
+            {
+                "value": 4, 
+                "rate": "IRAQ"
+            }, 
+            {
+                "value": 12, 
+                "rate": "BENIN"
+            }, 
+            {
+                "value": 6, 
+                "rate": "GOG"
+            }, 
+            {
+                "value": 0, 
+                "rate": "HRA"
+            }
+        ]
+    }, 
+    {
+        "categorie": "2018", 
+        "values": [
+            {
+                "value": 0, 
+                "rate": "IRAN"
+            }, 
+            {
+                "value": 4, 
+                "rate": "IRAQ"
+            }, 
+            {
+                "value": 12, 
+                "rate": "BENIN"
+            }, 
+            {
+                "value": 6, 
+                "rate": "GOG"
+            }, 
+            {
+                "value": 0, 
+                "rate": "HRA"
+            }
+        ]
+    }
+]
